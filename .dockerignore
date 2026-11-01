@@ -1,0 +1,9 @@
+.git
+.venv
+__pycache__
+*.pyc
+.env
+tests
+models/*.pt
+*_out.jpg
+try_*.py
