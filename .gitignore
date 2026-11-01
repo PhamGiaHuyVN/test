@@ -8,3 +8,6 @@ __pycache__/
 *.key
 dist/
 build/
+Dockerfile
+alembic.ini
+.env.example
